@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mvp</string>
+    <string name="error_tips">糟糕！出错了</string>
+</resources>
