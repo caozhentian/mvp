@@ -27,11 +27,16 @@ import personal.ztcao.baseframe.mvp.R;
  * 修改时间：
  * 修改备注：
  */
-public class BaseStateMvpSingleFragmentActivity<T extends BasePresenter>  extends BaseStateMvpActivity<T>{
+public class BaseMvpSingleFragmentActivity<T extends BasePresenter>  extends BaseMvpActivity<T>{
 
     @Override
     protected @LayoutRes  int getLayout() {
         return R.layout.act_base_state_mvp_single_fragment;
+    }
+
+    @Override
+    protected void initEventAndData() {
+
     }
 
     @Override

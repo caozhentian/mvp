@@ -18,17 +18,12 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import com.lufficc.stateLayout.StateLayout;
-
-import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 import me.yokeyword.fragmentation.SupportActivity;
-import personal.ztcao.baseframe.mvp.R;
 import personal.ztcao.baseframe.mvp.base.app.App;
 
 /**

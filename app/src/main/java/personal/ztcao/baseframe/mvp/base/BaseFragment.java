@@ -126,8 +126,6 @@ public abstract class BaseFragment extends Fragment {
 
     /**
      * 用户可见时执行的操作
-     * @author 漆可
-     * @date 2016-5-26 下午4:09:39
      */
     protected void onVisibleToUser()
     {

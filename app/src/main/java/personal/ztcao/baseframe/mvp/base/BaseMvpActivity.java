@@ -15,7 +15,6 @@
 package personal.ztcao.baseframe.mvp.base;
 
 import android.support.v7.app.AppCompatDelegate;
-import android.view.ViewGroup;
 
 import com.lufficc.stateLayout.StateLayout;
 

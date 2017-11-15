@@ -17,7 +17,6 @@ package personal.ztcao.baseframe.mvp.base;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.View;
-import android.view.ViewGroup;
 
 /**
  * 工程名:mvp
